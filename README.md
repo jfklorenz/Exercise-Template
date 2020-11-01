@@ -23,3 +23,5 @@ mp | maximum points (task) | 8
 text | task content | `\lipsum`
 
 All of the above can be seen in the example file called `example.tex`. 
+
+The package is designed for *german* exercises but can easily be adapted to any language.
