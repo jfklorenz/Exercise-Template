@@ -9,7 +9,7 @@ The template can be used via `\documentclass[parameter]{exercise}` and automatic
 Parameter | Explanation | Example
 --- | --- | ---
 name | your name | `Max\ Mustermann`
-mtr | student ID | 0123456
+mtr | student ID | 123456
 fach | subject | `Lineare Algebra`
 nr | exercise number | 4
 mp | maximum points (exercise) | 20

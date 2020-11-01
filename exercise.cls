@@ -12,16 +12,16 @@
 \RequirePackage[yyyymmdd]{datetime}
 \renewcommand{\dateseparator}{ -- }
 
-\def\name{Julian Lorenz}%
-\def\mtr{3383863}
+\def\name{Max Mustermann}%
+\def\mtr{123456}
 \def\docdate{\today}%
 \def\fach{Fach - Offen}
 \def\nr{0}
 \def\mp{0}
 
-\define@key{exercise.cls}{name}[Julian Lorenz]{%
+\define@key{exercise.cls}{name}[Max Mustermann]{%
   \def\name{#1}}
-\define@key{exercise.cls}{mtr}[3383863]{%
+\define@key{exercise.cls}{mtr}[123456]{%
   \def\mtr{#1}}
 \define@key{exercise.cls}{docdate}[\today]{%
   \def\docdate{#1}}
